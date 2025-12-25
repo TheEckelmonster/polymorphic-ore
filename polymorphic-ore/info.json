@@ -1,0 +1,13 @@
+{
+	"name": "polymorphic-ore",
+	"version": "0.1.0",
+	"factorio_version": "2.0",
+	"title": "Polymorphic Ore",
+	"author": "TheEckelmonster",
+	"description": "Ore comes in many forms and has multiple methods of processing with varying contextual trade-offs",
+	"dependencies": [
+		"base >= 2.0.72",
+        "? space-age >= 2.0.72",
+        "TheEckelmonster-core-library >= 0.1.2"
+	]
+}
